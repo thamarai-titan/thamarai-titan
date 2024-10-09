@@ -11,7 +11,7 @@
 
 - ⚡ Fact **Knowledge is Everything**
 
-<h3 align="left">Connect with me 🏃</h3>
+
 <p align="left">
 </p>
 
