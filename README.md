@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **tmanalan710@gmail.com**
 
-- ⚡ Fact **Knowledge is Everything**
-
-
 <p align="left">
 </p>
 
