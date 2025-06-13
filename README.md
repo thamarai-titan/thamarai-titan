@@ -27,16 +27,27 @@
 
 <div align="center">
 
+<!-- Animated Typing Heading -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%F0%9F%9A%80+Tech+Stack+I+Love+%F0%9F%92%BB" alt="Typing SVG" />
+
+<!-- Badges Section -->
+<br/>
+
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/-Motion-black?style=for-the-badge&logo=framer)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css)
+![Motion (Framer)](https://img.shields.io/badge/-Motion-black?style=for-the-badge&logo=framer)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
+
 
 ---
 
