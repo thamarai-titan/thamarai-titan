@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Thamarai 👋</h1>
+<h1 align="center">Hi there, I'm Thamarai Manalan👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Creative+UI+Designer;Motion+Design+Lover;Tech+Enthusiast&center=true&width=500&height=45">
@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/thamarai-titan"><img src="https://img.shields.io/github/followers/thamarai-titan?label=Follow&style=social"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tmanalan710@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thamarai-manalan-v-919384279/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 💡 I love turning simple ideas into elegant UI/UX  
 - 🌱 Actively learning **Web3**, **UI Animation**, and **System Design**  
 - 🧠 Sharing beginner-friendly code and concepts to help others grow  
-- 🌍 Based in Pollachi, India  
+- 🌍 Based in Coimbatore, India  
 
 ---
 
@@ -43,8 +43,6 @@
 ## 📌 Pinned Projects
 
 ⭐ [**Motion Design Practice**](https://github.com/thamarai-titan/Motion-Design-Practice) – Beginner-friendly animations using Motion  
-🛠️ [**Freelance Dashboard UI**](https://github.com/thamarai-titan) – Clean dashboard for freelancers with React & Tailwind  
-🌐 [**Easy-Hire Website**](https://github.com/thamarai-titan) – Hiring & showcasing platform built from scratch
 
 ---
 
@@ -59,12 +57,12 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📧 your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/thamarai-manalan-v-919384279/)
+- 📧 tmanalan710@gmail.com
 - 🌐 Portfolio Coming Soon...
 
 ---
 
 > “Let's learn, build, and animate the web — one project at a time.” 🚀  
-> — Thamarai
+> — Thamarai☕️
 
